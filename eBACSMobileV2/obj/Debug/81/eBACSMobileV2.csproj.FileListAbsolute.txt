@@ -1,0 +1,708 @@
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res.flag
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\R.txt
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\eBACSMobileV2.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\mscorlib.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Core.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Data.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.pdb
+D:\eBACSMobileV2\eBACSMobileV2\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res.flag
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\R.txt
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\eBACSMobileV2.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\mscorlib.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Core.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Data.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.pdb
+D:\eBACSMobileV2 - Copy\eBACSMobileV2\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res.flag
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\R.txt
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\eBACSMobileV2.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\mscorlib.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Core.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Data.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.pdb
+D:\eBACSMobileV2 10-25-2021\eBACSMobileV2\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res.flag
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\R.txt
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\eBACSMobileV2.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\mscorlib.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Core.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Data.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.pdb
+D:\miguel\back up\New folder\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res.flag
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res.flag
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\R.txt
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\miguel\back up\eBACSMobileV2 04-04-2022 printing summary\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.dll
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\eBACSMobileV2.eBACSMobileV2-Signed.apk
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.nuget.stamp
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csprojAssemblyReference.cache
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\libraryimports.cache.stamp
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res.flag
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.csproj.CoreCompileInputs.cache
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.dll
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\eBACSMobileV2.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\bin\eBACSMobileV2.eBACSMobileV2.apk
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\activity_main.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\colors.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\strings.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\values\styles.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtrans.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\roundbutton.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\dashboard.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\downloadaccounts.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\downloadlogo.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\roundbuttondashboard.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\downloaddata.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\uploaddata.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\reading.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\btnprevious.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\building.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\icon.ico
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\findings.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\leftt.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\rightt.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\printerr.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\searchh.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\reconprinter.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\saveprint.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\buttonborder.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\srwdlogonewtransnew.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\unread.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\layout\systemhistory.xml
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\R.cs.flag
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\R.txt
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\uploadflags.txt
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Mono.Android.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Mono.Security.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\mscorlib.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.ComponentModel.Composition.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Core.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Data.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.IO.Compression.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Net.Http.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Numerics.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Numerics.Vectors.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Runtime.Serialization.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.ServiceModel.Internals.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Transactions.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Web.Services.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Xml.Linq.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\System.Xml.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\bin\Debug\Xamarin.Essentials.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\eBACSMobileV2.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\mscorlib.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Core.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Data.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\eBACSMobileV2.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\mscorlib.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Core.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Data.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\System.Xml.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\wave.png
+D:\miguel\applications\xamarin\eBACSMobileV2 04-04-2022 printing summary1\eBACSMobileV2\obj\Debug\81\res\drawable\wave2.png
